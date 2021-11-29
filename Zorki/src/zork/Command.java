@@ -9,6 +9,9 @@ public class Command {
    * one (or both) can be null. The command word should be null to indicate that
    * this was a command that is not recognised by this game.
    */
+
+   //hello rastin 
+
   public Command(String firstWord, String secondWord) {
     commandWord = firstWord;
     this.secondWord = secondWord;
